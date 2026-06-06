@@ -40,14 +40,10 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton162:hover {color:green;text-shadow:2px 2px 6px red}
 #PushButton163 {position:absolute;left:178px;top:200px;width:166px;height:65px;margin:0;color:#000080;font-weight:800;text-shadow:2px 2px 7px white;background-color:#707070}
 #PushButton163:hover {color:green;text-shadow:2px 2px 6px red}
-#PushButton164 {position:absolute;left:234px;top:34px;width:73px;height:38px;margin:0;color:#FF8C00;font-size:7pt;font-weight:600;opacity:0.45}
-#PushButton164:hover {color:orange;opacity:1}
 #PushButton165 {position:absolute;left:7px;top:332px;width:339px;height:39px;margin:0;color:#0000FF;font-weight:600;background-color:orange}
 #PushButton165:hover {color:WHITE;font-weight:600;background-color:#008000}
 #Headline147 {position:absolute;left:65px;top:12px;width:249px;height:12px;margin:0;color:yellow;font-size:7pt;font-weight:600;text-align:center}
 #Headline147:hover {color:green}
-#PushButton166 {position:absolute;left:310px;top:34px;width:27px;height:38px;margin:0;color:#FF8C00;font-size:7pt;font-weight:600;opacity:0.45}
-#PushButton166:hover {color:orange;opacity:1}
 #PushButton167 {position:absolute;left:6px;top:374px;width:169px;height:29px;margin:0;color:green;font-size:9pt}
 #PushButton167:hover {color:red}
 #Headline148 {position:absolute;left:16px;top:77px;width:345px;height:100px;margin:0;color:red;font-size:19pt}
@@ -58,7 +54,7 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton171:hover {color:green;text-shadow:2px 2px 6px red}
 #Headline149 {position:absolute;left:31px;top:162px;width:311px;height:42px;margin:0;color:white;font-size:25pt;text-align:center}
 #TextArea103 {position:absolute;left:5px;top:433px;width:170px;height:436px;margin:0;font-size:9pt}
-#TextArea104 {position:absolute;left:178px;top:434px;width:166px;height:434px;margin:0;font-size:9pt}
+#TextArea104 {position:absolute;left:178px;top:433px;width:166px;height:434px;margin:0;font-size:9pt}
 #Headline150 {position:absolute;left:6px;top:408px;width:170px;height:24px;margin:0;color:white;font-size:14pt;text-align:center}
 #Headline151 {position:absolute;left:177px;top:409px;width:170px;height:24px;margin:0;color:white;font-size:14pt;text-align:center}
 #PrayerReps {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
