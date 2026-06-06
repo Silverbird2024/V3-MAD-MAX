@@ -6,32 +6,61 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Headline357 {position:absolute;left:111px;top:3px;width:142px;height:14px;margin:0;font-size:6pt;text-align:center}
 #landinghome {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Headline609 {position:absolute;left:8px;top:31px;width:143px;height:52px;margin:0;color:white}
-#PushButton666 {position:absolute;left:24px;top:214px;width:151px;height:83px;margin:0;color:#000080;font-weight:800;text-shadow:2px 2px 7px white;background-color:#707070}
+#PushButton666 {position:absolute;left:26px;top:176px;width:151px;height:83px;margin:0;color:#000080;font-weight:800;text-shadow:2px 2px 7px white;background-color:#707070}
 #PushButton666:hover {color:green;text-shadow:2px 2px 6px red}
-#PushButton848 {position:absolute;left:181px;top:214px;width:162px;height:83px;margin:0;color:#000080;font-weight:800;text-shadow:2px 2px 7px white;background-color:#707070}
+#PushButton848 {position:absolute;left:183px;top:176px;width:162px;height:83px;margin:0;color:#000080;font-weight:800;text-shadow:2px 2px 7px white;background-color:#707070}
 #PushButton848:hover {color:green;text-shadow:2px 2px 6px red}
 #PushButton967 {position:absolute;left:234px;top:34px;width:73px;height:38px;margin:0;color:#FF8C00;font-size:7pt;font-weight:600;opacity:0.45}
 #PushButton967:hover {color:orange;opacity:1}
-#PushButton990 {position:absolute;left:21px;top:392px;width:319px;height:39px;margin:0;color:#0000FF;font-weight:600;background-color:orange}
+#PushButton990 {position:absolute;left:22px;top:345px;width:319px;height:39px;margin:0;color:#0000FF;font-weight:600;background-color:orange}
 #PushButton990:hover {color:WHITE;font-weight:600;background-color:#008000}
 #Headline645 {position:absolute;left:65px;top:12px;width:249px;height:12px;margin:0;color:yellow;font-size:7pt;font-weight:600;text-align:center}
 #Headline645:hover {color:green}
-#SVGicon1 {position:absolute;left:93px;top:536px;width:57px;height:28px;margin:0;fill:#66B032;stroke:black;stroke-width:4px;transition:all 1s ease-out 0s;padding:2px}
+#SVGicon1 {position:absolute;left:92px;top:631px;width:57px;height:28px;margin:0;fill:#66B032;stroke:black;stroke-width:4px;transition:all 1s ease-out 0s;padding:2px}
 #SVGicon1:hover {fill:#FF0000}
-#SVGicon2 {position:absolute;left:152px;top:537px;width:54px;height:26px;margin:0;fill:#E0E0E0;stroke:black;stroke-width:4px;transition:all 1s ease-out 0s;padding:2px}
+#SVGicon2 {position:absolute;left:151px;top:632px;width:54px;height:26px;margin:0;fill:#E0E0E0;stroke:black;stroke-width:4px;transition:all 1s ease-out 0s;padding:2px}
 #SVGicon2:hover {fill:#FF0000}
-#SVGicon3 {position:absolute;left:204px;top:535px;width:64px;height:30px;margin:0;fill:#FF71A4;stroke:black;stroke-width:4px;transition:all 1s ease-out 0s;padding:2px}
+#SVGicon3 {position:absolute;left:203px;top:630px;width:64px;height:30px;margin:0;fill:#FF71A4;stroke:black;stroke-width:4px;transition:all 1s ease-out 0s;padding:2px}
 #SVGicon3:hover {fill:#FF0000}
 #PushButton204 {position:absolute;left:310px;top:34px;width:27px;height:38px;margin:0;color:#FF8C00;font-size:7pt;font-weight:600;opacity:0.45}
 #PushButton204:hover {color:orange;opacity:1}
-#PushButton212 {position:absolute;left:84px;top:439px;width:184px;height:29px;margin:0;color:green;font-size:9pt}
+#PushButton212 {position:absolute;left:85px;top:392px;width:184px;height:29px;margin:0;color:green;font-size:9pt}
 #PushButton212:hover {color:red}
 #Headline71 {position:absolute;left:30px;top:91px;width:303px;height:109px;margin:0;color:red;font-size:19pt}
 #Headline71:hover {color:white}
-#PushButton1 {position:absolute;left:84px;top:477px;width:185px;height:33px;margin:0;color:blue;font-size:8pt}
+#PushButton1 {position:absolute;left:85px;top:430px;width:185px;height:33px;margin:0;color:blue;font-size:8pt}
 #PushButton1:hover {color:green;font-size:9pt}
-#PushButton150 {position:absolute;left:23px;top:304px;width:151px;height:70px;margin:0;color:#000080;font-weight:800;text-shadow:2px 2px 7px white;background-color:#707070}
+#PushButton150 {position:absolute;left:25px;top:266px;width:151px;height:70px;margin:0;color:#000080;font-weight:800;text-shadow:2px 2px 7px white;background-color:#707070}
 #PushButton150:hover {color:green;text-shadow:2px 2px 6px red}
+#SVGicon28 {position:absolute;left:281px;top:83px;width:54px;height:26px;margin:0;fill:#E0E0E0;stroke:black;stroke-width:4px;transition:all 1s ease-out 0s;padding:2px}
+#SVGicon28:hover {fill:#FF0000}
+#TNeoAppPage11 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
+#Headline146 {position:absolute;left:35px;top:33px;width:176px;height:52px;margin:0;color:white}
+#PushButton162 {position:absolute;left:9px;top:200px;width:167px;height:66px;margin:0;color:#000080;font-weight:800;text-shadow:2px 2px 7px white;background-color:#707070}
+#PushButton162:hover {color:green;text-shadow:2px 2px 6px red}
+#PushButton163 {position:absolute;left:178px;top:200px;width:166px;height:65px;margin:0;color:#000080;font-weight:800;text-shadow:2px 2px 7px white;background-color:#707070}
+#PushButton163:hover {color:green;text-shadow:2px 2px 6px red}
+#PushButton164 {position:absolute;left:234px;top:34px;width:73px;height:38px;margin:0;color:#FF8C00;font-size:7pt;font-weight:600;opacity:0.45}
+#PushButton164:hover {color:orange;opacity:1}
+#PushButton165 {position:absolute;left:7px;top:332px;width:339px;height:39px;margin:0;color:#0000FF;font-weight:600;background-color:orange}
+#PushButton165:hover {color:WHITE;font-weight:600;background-color:#008000}
+#Headline147 {position:absolute;left:65px;top:12px;width:249px;height:12px;margin:0;color:yellow;font-size:7pt;font-weight:600;text-align:center}
+#Headline147:hover {color:green}
+#PushButton166 {position:absolute;left:310px;top:34px;width:27px;height:38px;margin:0;color:#FF8C00;font-size:7pt;font-weight:600;opacity:0.45}
+#PushButton166:hover {color:orange;opacity:1}
+#PushButton167 {position:absolute;left:6px;top:374px;width:169px;height:29px;margin:0;color:green;font-size:9pt}
+#PushButton167:hover {color:red}
+#Headline148 {position:absolute;left:16px;top:77px;width:345px;height:100px;margin:0;color:red;font-size:19pt}
+#Headline148:hover {color:white}
+#PushButton170 {position:absolute;left:178px;top:374px;width:167px;height:30px;margin:0;color:blue;font-size:8pt}
+#PushButton170:hover {color:green;font-size:9pt}
+#PushButton171 {position:absolute;left:8px;top:269px;width:167px;height:58px;margin:0;color:#000080;font-weight:800;text-shadow:2px 2px 7px white;background-color:#707070}
+#PushButton171:hover {color:green;text-shadow:2px 2px 6px red}
+#Headline149 {position:absolute;left:31px;top:162px;width:311px;height:42px;margin:0;color:white;font-size:25pt;text-align:center}
+#TextArea103 {position:absolute;left:5px;top:433px;width:170px;height:436px;margin:0;font-size:9pt}
+#TextArea104 {position:absolute;left:178px;top:434px;width:166px;height:434px;margin:0;font-size:9pt}
+#Headline150 {position:absolute;left:6px;top:408px;width:170px;height:24px;margin:0;color:white;font-size:14pt;text-align:center}
+#Headline151 {position:absolute;left:177px;top:409px;width:170px;height:24px;margin:0;color:white;font-size:14pt;text-align:center}
 #PrayerReps {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Headline643 {position:absolute;left:213px;top:6px;width:151px;height:52px;margin:0;color:white}
 #PushButton915 {position:absolute;left:14px;top:14px;width:155px;height:72px;margin:0;color:blue;font-size:15pt;font-weight:800;text-shadow:2px 2px 6px #FFE4C4;background-color:#707070}
@@ -77,6 +106,9 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton151 {position:absolute;left:121px;top:180px;width:95px;height:32px;margin:0;color:blue;font-size:8pt;font-weight:600;opacity:0.46}
 #PushButton151:hover {color:WHITE;font-weight:600;background-color:#008000;opacity:0.8}
 #Image5 {position:absolute;left:121px;top:73px;width:93px;height:101px;margin:0;}
+#PushButton161 {position:absolute;left:222px;top:180px;width:95px;height:32px;margin:0;color:blue;font-size:8pt;font-weight:600;opacity:0.46}
+#PushButton161:hover {color:WHITE;font-weight:600;background-color:#008000;opacity:0.8}
+#Image6 {position:absolute;left:222px;top:73px;width:93px;height:101px;margin:0;}
 #Healthmanideal {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Headline129 {position:absolute;left:213px;top:6px;width:151px;height:52px;margin:0;color:white}
 #PushButton155 {position:absolute;left:97px;top:334px;width:70px;height:29px;margin:0;opacity:0.4}
@@ -125,12 +157,12 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #vials:hover {color:lime}
 #Prayer1 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Headline74 {position:absolute;left:24px;top:38px;width:346px;height:41px;margin:0;color:#FFFFFF;text-align:left}
-#TextArea11 {position:absolute;left:12px;top:148px;width:350px;height:562px;margin:0;}
-#PushButton210 {position:absolute;left:214px;top:98px;width:35px;height:31px;margin:0;}
+#TextArea11 {position:absolute;left:12px;top:135px;width:350px;height:575px;margin:0;}
+#PushButton210 {position:absolute;left:209px;top:98px;width:35px;height:31px;margin:0;}
 #TextArea215 {position:absolute;left:393px;top:38px;width:350px;height:671px;margin:0;}
 #TextArea216 {position:absolute;left:11px;top:756px;width:350px;height:562px;margin:0;}
 #TextArea217 {position:absolute;left:386px;top:757px;width:350px;height:671px;margin:0;}
-#TextArea395 {position:absolute;left:16px;top:94px;width:191px;height:38px;margin:0;}
+#TextArea395 {position:absolute;left:13px;top:94px;width:191px;height:38px;margin:0;}
 #TextArea396 {position:absolute;left:393px;top:-2px;width:191px;height:38px;margin:0;}
 #TextArea397 {position:absolute;left:12px;top:715px;width:191px;height:38px;margin:0;}
 #TextArea398 {position:absolute;left:387px;top:715px;width:191px;height:38px;margin:0;}
