@@ -54,6 +54,8 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton219 {position:absolute;left:316px;top:365px;width:45px;height:37px;margin:0;font-size:9pt}
 #PushButton231 {position:absolute;left:207px;top:434px;width:44px;height:35px;margin:0;background-color:#00008B}
 #PushButton232 {position:absolute;left:264px;top:434px;width:44px;height:35px;margin:0;background-color:#8A2BE2}
+#Headline171 {position:absolute;left:7px;top:499px;width:66px;height:53px;margin:0;color:WHITE;font-size:16pt;text-align:center}
+#Headline171:hover {color:ORANGE}
 #Speed01 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Headline155 {position:absolute;left:399px;top:56px;width:347px;height:22px;margin:0;color:white;font-size:11pt}
 #Headline358 {position:absolute;left:1025px;top:-19px;width:142px;height:14px;margin:0;font-size:6pt;text-align:center}
