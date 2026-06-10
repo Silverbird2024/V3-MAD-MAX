@@ -894,8 +894,6 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton177:hover {color:Green;font-weight:600}
 #PushButton178 {position:absolute;left:4px;top:394px;width:179px;height:63px;margin:0;color:#000080;opacity:1}
 #PushButton178:hover {color:Green;font-weight:600}
-#PushButton179 {position:absolute;left:189px;top:396px;width:179px;height:60px;margin:0;color:#000080;opacity:1}
-#PushButton179:hover {color:Green;font-weight:600}
 #TextInput239 {position:absolute;left:547px;top:92px;width:150px;height:29px;margin:0;color:#000080}
 #TextInput239:hover {color:Green;font-weight:600}
 #TextInput241 {position:absolute;left:547px;top:158px;width:150px;height:29px;margin:0;color:#000080}
@@ -945,10 +943,6 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #TextInput238:hover {color:Green;font-weight:600}
 #TextInput245 {position:absolute;left:388px;top:395px;width:151px;height:29px;margin:0;color:#000080;opacity:1}
 #TextInput245:hover {color:Green;font-weight:600}
-#TextInput246 {position:absolute;left:548px;top:427px;width:150px;height:29px;margin:0;color:#000080;opacity:1}
-#TextInput246:hover {color:Green;font-weight:600}
-#TextInput247 {position:absolute;left:548px;top:396px;width:151px;height:29px;margin:0;color:#000080;opacity:1}
-#TextInput247:hover {color:Green;font-weight:600}
 #Headline32 {position:absolute;left:60px;top:469px;width:115px;height:22px;margin:0;color:#66B032;font-size:15pt}
 #TextArea5 {position:absolute;left:11px;top:503px;width:353px;height:782px;margin:0;}
 #PushButton188 {position:absolute;left:190px;top:465px;width:167px;height:28px;margin:0;}
@@ -1100,7 +1094,7 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #TextArea335:hover {color:red}
 #Headline368 {position:absolute;left:9px;top:9px;width:216px;height:32px;margin:0;color:blue;font-size:19pt}
 #Headline368:hover {color:red}
-#PushButton583 {position:absolute;left:257px;top:7px;width:70px;height:30px;margin:0;opacity:0.35}
+#PushButton583 {position:absolute;left:230px;top:7px;width:70px;height:30px;margin:0;opacity:0.35}
 #TextArea337 {position:absolute;left:192px;top:76px;width:157px;height:218px;margin:0;color:#008000}
 #TextArea337:hover {color:red}
 #Headline522 {position:absolute;left:197px;top:47px;width:152px;height:29px;margin:0;color:blue;font-size:19pt}
@@ -1113,6 +1107,7 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #TextArea387:hover {color:red}
 #Headline534 {position:absolute;left:198px;top:750px;width:152px;height:29px;margin:0;color:blue;font-size:19pt}
 #Headline534:hover {color:red}
+#PushButton300 {position:absolute;left:305px;top:7px;width:37px;height:30px;margin:0;color:blue;font-size:7pt}
 #Headline367 {position:absolute;left:8px;top:13px;width:277px;height:38px;margin:0;color:#008080;font-size:22pt}
 #Headline367:hover {color:red}
 #Headline371 {position:absolute;left:111px;top:3px;width:142px;height:14px;margin:0;font-size:6pt;text-align:center}
@@ -1129,6 +1124,12 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton581 {position:absolute;left:75px;top:131px;width:96px;height:30px;margin:0;opacity:0.35}
 #PushButton582 {position:absolute;left:182px;top:131px;width:96px;height:30px;margin:0;opacity:0.35}
 #Headline653 {position:absolute;left:215px;top:6px;width:151px;height:47px;margin:0;color:white}
+#TextInput247 {position:absolute;left:457px;top:365px;width:151px;height:29px;margin:0;color:#000080;opacity:1}
+#TextInput247:hover {color:Green;font-weight:600}
+#TextInput246 {position:absolute;left:456px;top:399px;width:150px;height:29px;margin:0;color:#000080;opacity:1}
+#TextInput246:hover {color:Green;font-weight:600}
+#PushButton179 {position:absolute;left:439px;top:301px;width:179px;height:60px;margin:0;color:#000080;opacity:1}
+#PushButton179:hover {color:Green;font-weight:600}
 #Speedp1 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Headline112 {position:absolute;left:8px;top:28px;width:353px;height:31px;margin:0;color:white;font-size:22pt}
 #TextArea86 {position:absolute;left:14px;top:66px;width:350px;height:105px;margin:0;color:#008000;font-size:12pt}
