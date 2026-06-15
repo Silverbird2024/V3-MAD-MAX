@@ -1689,10 +1689,6 @@ $scope.Headline448_click = function() {neoTalkSpeak($App.speedp7b, "", $App.read
 $scope.Headline449_click = function() {neoTalkSpeak($App.speedp8b, "", $App.read1, $App.read2);};
 $scope.PushButton269_click = function() {$scope.GotoPage( "Speed03" );};
 $scope.PushButton273_click = function() {$scope.GotoPage( "Speed04" );};
-$scope.Headline174_click = function() {neoTalkSpeak($App.speedp1b, "", $App.read1, $App.read2);};
-$scope.Headline175_click = function() {neoTalkSpeak($App.speedp2b, "", $App.read1, $App.read2);};
-$scope.Headline176_click = function() {neoTalkSpeak($App.speedp7b, "", $App.read1, $App.read2);};
-$scope.Headline177_click = function() {neoTalkSpeak($App.speedp8b, "", $App.read1, $App.read2);};
 $scope.Headline387_click = function() {neoTalkSpeak($App.speedp9b, "", $App.read1, $App.read2);};
 $scope.PushButton222_click = function() {$scope.GotoPage( "Speed09" );};
 $scope.PushButton225_click = function() {$scope.GotoPage( "Speed10" );};
@@ -1701,6 +1697,10 @@ $scope.Headline389_click = function() {neoTalkSpeak($App.speedp11b, "", $App.rea
 $scope.Headline390_click = function() {neoTalkSpeak($App.speedp12b, "", $App.read1, $App.read2);};
 $scope.PushButton251_click = function() {$scope.GotoPage( "Speed11" );};
 $scope.PushButton255_click = function() {$scope.GotoPage( "Speed12" );};
+$scope.Headline174_click = function() {neoTalkSpeak($App.speedp1b, "", $App.read1, $App.read2);};
+$scope.Headline175_click = function() {neoTalkSpeak($App.speedp2b, "", $App.read1, $App.read2);};
+$scope.Headline176_click = function() {neoTalkSpeak($App.speedp7b, "", $App.read1, $App.read2);};
+$scope.Headline177_click = function() {neoTalkSpeak($App.speedp8b, "", $App.read1, $App.read2);};
 });
 NeoApp.controller("Speed01_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 4;
