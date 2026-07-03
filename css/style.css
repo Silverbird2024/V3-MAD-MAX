@@ -46,12 +46,14 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #SVGicon126:hover {fill:#008000}
 #Headline520 {position:absolute;left:463px;top:409px;width:116px;height:19px;margin:0;color:white;font-size:7pt;font-weight:600;text-align:center}
 #Image8 {position:absolute;left:406px;top:328px;width:47px;height:76px;margin:0;}
-#Headline1333 {position:absolute;left:31px;top:522px;width:303px;height:57px;margin:0;color:WHITE}
+#Headline1333 {position:absolute;left:31px;top:475px;width:303px;height:57px;margin:0;color:WHITE}
 #Headline1333:hover {color:GREEN}
-#Headline659 {position:absolute;left:32px;top:459px;width:303px;height:57px;margin:0;color:WHITE}
+#Headline659 {position:absolute;left:32px;top:415px;width:303px;height:57px;margin:0;color:WHITE}
 #Headline659:hover {color:GREEN}
 #Headline662 {position:absolute;left:17px;top:319px;width:325px;height:105px;margin:0;color:WHITE;font-size:9pt;text-align:center}
 #Headline662:hover {color:yellow;text-shadow:4px 4px 6px grey}
+#Headline663 {position:absolute;left:29px;top:525px;width:303px;height:102px;margin:0;color:WHITE}
+#Headline663:hover {color:GREEN}
 #PreparationKeys {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Rectangle3 {position:absolute;left:-1px;top:664px;width:378px;height:4001px;margin:0;fill:#383838;stroke-width:1px}
 #Headline512 {position:absolute;left:224px;top:41px;width:15px;height:17px;margin:0;color:White;font-size:10pt;font-weight:600}
@@ -864,6 +866,12 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton109 {position:absolute;left:103px;top:812px;width:157px;height:33px;margin:0;}
 #TextArea354 {position:absolute;left:19px;top:59px;width:337px;height:578px;margin:0;color:white;font-size:9pt;background-color:#383838}
 #TextArea355 {position:absolute;left:18px;top:652px;width:337px;height:578px;margin:0;color:white;font-size:9pt;background-color:#383838}
+#V4DiaryVersionRecord {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
+#Headline664 {position:absolute;left:15px;top:20px;width:349px;height:44px;margin:0;color:#00FFFF;font-size:20pt}
+#SVGicon174 {position:absolute;left:306px;top:16px;width:52px;height:36px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
+#PushButton134 {position:absolute;left:103px;top:812px;width:157px;height:33px;margin:0;}
+#TextArea356 {position:absolute;left:19px;top:59px;width:337px;height:578px;margin:0;color:white;font-size:9pt;background-color:#383838}
+#TextArea357 {position:absolute;left:18px;top:652px;width:337px;height:578px;margin:0;color:white;font-size:9pt;background-color:#383838}
 #v4WORKSHOP002 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Headline1336 {position:absolute;left:15px;top:20px;width:349px;height:44px;margin:0;color:#00FFFF;font-size:20pt}
 #SVGicon151 {position:absolute;left:306px;top:16px;width:52px;height:36px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
