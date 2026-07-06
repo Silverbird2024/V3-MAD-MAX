@@ -1835,7 +1835,7 @@ $scope.Healthmanideal_pageenter = function() {$App.man1h = "250";
 $App.man1w = "170";
 $App.man3h = "250";
 $App.man3w = "170";};
-$App.workothers2="Overview";
+$App.Work1others="Overview";
 $App.speedp17b="Overview";
 $App.speedp18b="Overview";
 $App.speedp19b="Overview";
@@ -2408,7 +2408,7 @@ $scope.Headline796_click = function() {neoTalkSpeak($App.Speed58b, "", $App.read
 $scope.Headline797_click = function() {neoTalkSpeak($App.Speed59b, "", $App.read1, $App.read2);};
 $scope.Headline798_click = function() {neoTalkSpeak($App.Speed60b, "", $App.read1, $App.read2);};
 $scope.TextArea494_change = function() {localStorage.setItem("workothers",$App.Workothers);};
-$scope.TextArea496_change = function() {localStorage.setItem("workothers2",$App.workothers2);};
+$scope.TextArea496_change = function() {localStorage.setItem("work1others",$App.Work1others);};
 $scope.PushButton22_click = function() {$scope.GotoPage( "PreparationKeys" );};
 });
 NeoApp.controller("PreparationKeys1_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
