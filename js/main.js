@@ -1217,6 +1217,7 @@ $App.speedMoney0043 = localStorage.getItem("speedMoney0043");
 $App.speedMoney0044 = localStorage.getItem("speedMoney0044");
 $App.speedMoney0045 = localStorage.getItem("speedMoney0045");};
 $scope.landinghome_pageenter = function() {$App.VERSION = "V3.9c.016";
+$App.symbols = localStorage.getItem("symbols");
 $App.ulr1a = localStorage.getItem("ulr1a");
 $App.ulr2a = localStorage.getItem("ulr2a");
 $App.ulr3a = localStorage.getItem("ulr3a");
@@ -3590,6 +3591,7 @@ $App.bmi = localStorage.getItem("bmi");};
 $scope.TextArea721_change = function() {localStorage.setItem("pl1a",$App.pl1a);};
 $scope.TextArea722_change = function() {localStorage.setItem("pl1b",$App.pl1b);};
 $scope.SVGicon275_click = function() {$scope.GotoPage( "landinghome" );};
+$scope.TextArea731_change = function() {localStorage.setItem("pl1c",$App.pl1c);};
 });
 NeoApp.controller("landinghome_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 2;
@@ -3901,6 +3903,7 @@ $scope.Headline1111_click = function() {$scope.GotoPage( "rules10" );};
 $scope.Headline1112_click = function() {$scope.GotoPage( "rules11" );};
 $scope.Headline1113_click = function() {$scope.GotoPage( "rules12" );};
 $scope.SVGicon292_click = function() {$scope.GotoPage( "Preloader" );};
+$scope.TextArea732_change = function() {localStorage.setItem("symbols",$App.symbols);};
 });
 NeoApp.controller("PreparationKeys_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 3;
