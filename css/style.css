@@ -201,7 +201,7 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Headline1113:hover {color:orange}
 #SVGicon292 {position:absolute;left:191px;top:77px;width:56px;height:46px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
 #TextArea732 {position:absolute;left:395px;top:101px;width:316px;height:253px;margin:0;}
-#Headline1119 {position:absolute;left:14px;top:134px;width:333px;height:225px;margin:0;color:lime;font-size:11pt;font-weight:600;text-align:center}
+#Headline1119 {position:absolute;left:14px;top:134px;width:333px;height:225px;margin:0;color:white;font-size:14pt;font-weight:300;text-align:center}
 #Headline1119:hover {color:ORANGE;text-shadow:4px 4px 6px grey}
 #PreparationKeys {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Rectangle3 {position:absolute;left:-1px;top:660px;width:378px;height:4005px;margin:0;fill:#383838;stroke-width:1px}
