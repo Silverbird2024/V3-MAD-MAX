@@ -1225,7 +1225,7 @@ $App.speedMoney0042 = localStorage.getItem("speedMoney0042");
 $App.speedMoney0043 = localStorage.getItem("speedMoney0043");
 $App.speedMoney0044 = localStorage.getItem("speedMoney0044");
 $App.speedMoney0045 = localStorage.getItem("speedMoney0045");};
-$scope.landinghome_pageenter = function() {$App.symbols = localStorage.getItem("symbols");
+$scope.landinghome_pageenter = function() {$App.Symbols = localStorage.getItem("Symbols");
 $App.sl0l = localStorage.getItem("sl0l");
 $App.sl02 = localStorage.getItem("sl02");
 $App.sl03 = localStorage.getItem("sl03");
@@ -3646,6 +3646,7 @@ $scope.SVGicon302_click = function() {neoTalkCancelSpeech();};
 NeoApp.controller("landinghome_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 2;
 $App.NAB.PageID = "landinghome";
+$scope.SVGicon285_click = function() {$scope.ObjectToBack("SVGicon285");};
 $scope.PushButton170_click = function() {$scope.GotoPage( "skillsphil" );};
 $scope.Headline149_click = function() {$scope.GotoPage( "PreparationKeys" );
 $App.read1 = "1";
@@ -3871,7 +3872,7 @@ $scope.Headline1111_click = function() {$scope.GotoPage( "rules10" );};
 $scope.Headline1112_click = function() {$scope.GotoPage( "rules11" );};
 $scope.Headline1113_click = function() {$scope.GotoPage( "rules12" );};
 $scope.SVGicon292_click = function() {$scope.GotoPage( "Preloader" );};
-$scope.TextArea732_change = function() {localStorage.setItem("Symbols",$App.symbols);};
+$scope.TextArea732_change = function() {localStorage.setItem("Symbols",$App.Symbols);};
 $scope.Headline1119_click = function() {$scope.GotoPage( "rules13" );};
 $scope.Headline1121_click = function() {$scope.GotoPage( "rules14" );};
 $scope.Headline1122_click = function() {$scope.GotoPage( "rules15" );};
@@ -3920,30 +3921,53 @@ $scope.SVGicon315_click = function() {neoTalkSpeak($App.rules24a, "", 1.1, 1.1);
 $scope.SVGicon316_click = function() {neoTalkSpeak($App.rules21a, "", 1.1, 1.1);};
 $scope.SVGicon317_click = function() {neoTalkSpeak($App.rules22a, "", 1.1, 1.1);};
 $scope.SVGicon318_click = function() {neoTalkSpeak($App.rules23a, "", 1.1, 1.1);};
-$scope.TextInput304_change = function() {localStorage.setItem("sl0l",$App.sl0l);};
-$scope.TextInput305_change = function() {localStorage.setItem("sl02",$App.sl02);};
-$scope.TextInput306_change = function() {localStorage.setItem("sl04",$App.sl04);};
-$scope.TextInput307_change = function() {localStorage.setItem("sl03",$App.sl03);};
-$scope.TextInput308_change = function() {localStorage.setItem("sl05",$App.sl05);};
-$scope.TextInput309_change = function() {localStorage.setItem("sl06",$App.sl06);};
-$scope.TextInput310_change = function() {localStorage.setItem("sl08",$App.sl08);};
-$scope.TextInput311_change = function() {localStorage.setItem("sl07",$App.sl07);};
-$scope.TextInput312_change = function() {localStorage.setItem("sl09",$App.sl09);};
-$scope.TextInput313_change = function() {localStorage.setItem("sl10",$App.sl10);};
-$scope.TextInput314_change = function() {localStorage.setItem("sl12",$App.sl12);};
-$scope.TextInput315_change = function() {localStorage.setItem("sl11",$App.sl11);};
-$scope.TextInput316_change = function() {localStorage.setItem("sl13",$App.sl13);};
-$scope.TextInput317_change = function() {localStorage.setItem("sl14",$App.sl14);};
-$scope.TextInput318_change = function() {localStorage.setItem("sl16",$App.sl16);};
-$scope.TextInput319_change = function() {localStorage.setItem("sl15",$App.sl15);};
-$scope.TextInput320_change = function() {localStorage.setItem("sl17",$App.sl17);};
-$scope.TextInput321_change = function() {localStorage.setItem("sl18",$App.sl18);};
-$scope.TextInput322_change = function() {localStorage.setItem("sl20",$App.sl20);};
-$scope.TextInput323_change = function() {localStorage.setItem("sl19",$App.sl19);};
-$scope.TextInput324_change = function() {localStorage.setItem("sl21",$App.sl21);};
-$scope.TextInput325_change = function() {localStorage.setItem("sl22",$App.sl22);};
-$scope.TextInput326_change = function() {localStorage.setItem("sl24",$App.sl24);};
-$scope.TextInput327_change = function() {localStorage.setItem("sl23",$App.sl23);};
+$scope.SVGicon284_click = function() {$scope.ObjectToBack("SVGicon284");};
+$scope.SVGicon286_click = function() {$scope.ObjectToBack("SVGicon286");};
+$scope.SVGicon287_click = function() {$scope.ObjectToBack("SVGicon287");};
+$scope.SVGicon319_click = function() {$scope.ObjectToBack("SVGicon319");};
+$scope.SVGicon320_click = function() {$scope.ObjectToBack("SVGicon320");};
+$scope.SVGicon321_click = function() {$scope.ObjectToBack("SVGicon321");};
+$scope.SVGicon322_click = function() {$scope.ObjectToBack("SVGicon322");};
+$scope.SVGicon323_click = function() {$scope.ObjectToBack("SVGicon323");};
+$scope.SVGicon324_click = function() {$scope.ObjectToBack("SVGicon324");};
+$scope.SVGicon325_click = function() {$scope.ObjectToBack("SVGicon325");};
+$scope.SVGicon326_click = function() {$scope.ObjectToBack("SVGicon326");};
+$scope.SVGicon327_click = function() {$scope.ObjectToBack("SVGicon327");};
+$scope.SVGicon328_click = function() {$scope.ObjectToBack("SVGicon328");};
+$scope.SVGicon329_click = function() {$scope.ObjectToBack("SVGicon329");};
+$scope.SVGicon330_click = function() {$scope.ObjectToBack("SVGicon330");};
+$scope.SVGicon331_click = function() {$scope.ObjectToBack("SVGicon319");};
+$scope.SVGicon332_click = function() {$scope.ObjectToBack("SVGicon332");};
+$scope.SVGicon333_click = function() {$scope.ObjectToBack("SVGicon333");};
+$scope.SVGicon334_click = function() {$scope.ObjectToBack("SVGicon334");};
+$scope.SVGicon335_click = function() {$scope.ObjectToBack("SVGicon335");};
+$scope.SVGicon336_click = function() {$scope.ObjectToBack("SVGicon336");};
+$scope.SVGicon337_click = function() {$scope.ObjectToBack("SVGicon337");};
+$scope.SVGicon338_click = function() {$scope.ObjectToBack("SVGicon338");};
+$scope.SVGicon339_click = function() {$scope.ObjectToBack("SVGicon339");};
+$scope.SVGicon340_click = function() {$scope.ObjectToBack("SVGicon340");};
+$scope.SVGicon341_click = function() {$scope.ObjectToBack("SVGicon341");};
+$scope.SVGicon342_click = function() {$scope.ObjectToBack("SVGicon342");};
+$scope.SVGicon343_click = function() {$scope.ObjectToBack("SVGicon343");};
+$scope.SVGicon344_click = function() {$scope.ObjectToBack("SVGicon344");};
+$scope.SVGicon345_click = function() {$scope.ObjectToBack("SVGicon345");};
+$scope.SVGicon346_click = function() {$scope.ObjectToBack("SVGicon346");};
+$scope.SVGicon347_click = function() {$scope.ObjectToBack("SVGicon347");};
+$scope.SVGicon348_click = function() {$scope.ObjectToBack("SVGicon348");};
+$scope.SVGicon349_click = function() {$scope.ObjectToBack("SVGicon349");};
+$scope.SVGicon350_click = function() {$scope.ObjectToBack("SVGicon350");};
+$scope.SVGicon351_click = function() {$scope.ObjectToBack("SVGicon351");};
+$scope.SVGicon352_click = function() {$scope.ObjectToBack("SVGicon352");};
+$scope.SVGicon353_click = function() {$scope.ObjectToBack("SVGicon353");};
+$scope.SVGicon354_click = function() {$scope.ObjectToBack("SVGicon354");};
+$scope.SVGicon355_click = function() {$scope.ObjectToBack("SVGicon355");};
+$scope.SVGicon356_click = function() {$scope.ObjectToBack("SVGicon356");};
+$scope.SVGicon357_click = function() {$scope.ObjectToBack("SVGicon357");};
+$scope.SVGicon358_click = function() {$scope.ObjectToBack("SVGicon358");};
+$scope.SVGicon359_click = function() {$scope.ObjectToBack("SVGicon359");};
+$scope.SVGicon360_click = function() {$scope.ObjectToBack("SVGicon360");};
+$scope.SVGicon361_click = function() {$scope.ObjectToBack("SVGicon361");};
+$scope.SVGicon362_click = function() {$scope.ObjectToBack("SVGicon362");};
 });
 NeoApp.controller("PreparationKeys_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 3;
@@ -4509,6 +4533,7 @@ $scope.TextInput275_change = function() {localStorage.setItem("where1",$App.wher
 $scope.SVGicon243_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton757_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea701_change = function() {localStorage.setItem("where1a",$App.where1a);};
+$scope.TextInput328_change = function() {localStorage.setItem("sl0l",$App.sl0l);};
 });
 NeoApp.controller("where2_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 8;
@@ -4517,6 +4542,7 @@ $scope.TextInput274_change = function() {localStorage.setItem("where2",$App.wher
 $scope.SVGicon240_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton269_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea702_change = function() {localStorage.setItem("where2a",$App.where2a);};
+$scope.TextInput304_change = function() {localStorage.setItem("sl02",$App.sl02);};
 });
 NeoApp.controller("where3_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 9;
@@ -4525,6 +4551,7 @@ $scope.TextInput276_change = function() {localStorage.setItem("where3",$App.wher
 $scope.SVGicon241_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton273_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea703_change = function() {localStorage.setItem("where3a",$App.where3a);};
+$scope.TextInput329_change = function() {localStorage.setItem("sl03",$App.sl03);};
 });
 NeoApp.controller("where4_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 10;
@@ -4533,6 +4560,7 @@ $scope.TextInput277_change = function() {localStorage.setItem("where4",$App.wher
 $scope.SVGicon242_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton284_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea704_change = function() {localStorage.setItem("where4a",$App.where4a);};
+$scope.TextInput330_change = function() {localStorage.setItem("sl04",$App.sl04);};
 });
 NeoApp.controller("where5_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 11;
@@ -4541,6 +4569,7 @@ $scope.TextInput278_change = function() {localStorage.setItem("where5",$App.wher
 $scope.SVGicon244_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton444_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea705_change = function() {localStorage.setItem("where5a",$App.where5a);};
+$scope.TextInput331_change = function() {localStorage.setItem("sl05",$App.sl05);};
 });
 NeoApp.controller("where6_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 12;
@@ -4549,6 +4578,7 @@ $scope.TextInput279_change = function() {localStorage.setItem("where6",$App.wher
 $scope.SVGicon245_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton445_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea706_change = function() {localStorage.setItem("where6a",$App.where6a);};
+$scope.TextInput332_change = function() {localStorage.setItem("sl06",$App.sl06);};
 });
 NeoApp.controller("where7_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 13;
@@ -4557,6 +4587,7 @@ $scope.TextInput280_change = function() {localStorage.setItem("where7",$App.wher
 $scope.SVGicon246_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton446_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea707_change = function() {localStorage.setItem("where7a",$App.where7a);};
+$scope.TextInput333_change = function() {localStorage.setItem("sl07",$App.sl07);};
 });
 NeoApp.controller("where8_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 14;
@@ -4565,6 +4596,7 @@ $scope.TextInput281_change = function() {localStorage.setItem("where8",$App.wher
 $scope.SVGicon247_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton447_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea708_change = function() {localStorage.setItem("where8a",$App.where8a);};
+$scope.TextInput334_change = function() {localStorage.setItem("sl08",$App.sl08);};
 });
 NeoApp.controller("where9_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 15;
@@ -4573,6 +4605,7 @@ $scope.TextInput282_change = function() {localStorage.setItem("where9",$App.wher
 $scope.SVGicon249_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton451_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea711_change = function() {localStorage.setItem("where9a",$App.where9a);};
+$scope.TextInput335_change = function() {localStorage.setItem("sl09",$App.sl09);};
 });
 NeoApp.controller("where10_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 16;
@@ -4580,7 +4613,8 @@ $App.NAB.PageID = "where10";
 $scope.TextInput283_change = function() {localStorage.setItem("where10",$App.where10);};
 $scope.SVGicon250_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton452_click = function() {$scope.GotoPage( "PreparationKeys" );};
-$scope.TextArea712_change = function() {localStorage.setItem("where10",$App.where10);};
+$scope.TextArea712_change = function() {localStorage.setItem("where10a",$App.where10a);};
+$scope.TextInput336_change = function() {localStorage.setItem("sl10",$App.sl10);};
 });
 NeoApp.controller("where11_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 17;
@@ -4589,6 +4623,7 @@ $scope.TextInput284_change = function() {localStorage.setItem("where11",$App.whe
 $scope.SVGicon251_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton453_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea713_change = function() {localStorage.setItem("where11a",$App.where11a);};
+$scope.TextInput337_change = function() {localStorage.setItem("sl11",$App.sl11);};
 });
 NeoApp.controller("where12_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 18;
@@ -4597,6 +4632,7 @@ $scope.TextInput285_change = function() {localStorage.setItem("where12",$App.whe
 $scope.SVGicon252_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton454_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea714_change = function() {localStorage.setItem("where12a",$App.where12a);};
+$scope.TextInput338_change = function() {localStorage.setItem("sl12",$App.sl12);};
 });
 NeoApp.controller("rules1_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 19;
@@ -4605,6 +4641,7 @@ $scope.TextInput286_change = function() {localStorage.setItem("rules1",$App.rule
 $scope.SVGicon253_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton455_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea715_change = function() {localStorage.setItem("rules1a",$App.rules1a);};
+$scope.TextInput339_change = function() {localStorage.setItem("sl13",$App.sl13);};
 });
 NeoApp.controller("rules2_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 20;
@@ -4613,6 +4650,7 @@ $scope.TextInput287_change = function() {localStorage.setItem("rules2",$App.rule
 $scope.SVGicon254_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton456_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea716_change = function() {localStorage.setItem("rules2a",$App.rules2a);};
+$scope.TextInput340_change = function() {localStorage.setItem("sl14",$App.sl14);};
 });
 NeoApp.controller("rules3_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 21;
@@ -4621,6 +4659,7 @@ $scope.TextInput288_change = function() {localStorage.setItem("rules3",$App.rule
 $scope.SVGicon255_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton457_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea717_change = function() {localStorage.setItem("rules3a",$App.rules3a);};
+$scope.TextInput341_change = function() {localStorage.setItem("sl15",$App.sl15);};
 });
 NeoApp.controller("rules4_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 22;
@@ -4629,6 +4668,7 @@ $scope.TextInput289_change = function() {localStorage.setItem("rules4",$App.rule
 $scope.SVGicon256_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton458_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea718_change = function() {localStorage.setItem("rules4a",$App.rules4a);};
+$scope.TextInput342_change = function() {localStorage.setItem("sl16",$App.sl16);};
 });
 NeoApp.controller("rules5_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 23;
@@ -4637,6 +4677,7 @@ $scope.TextInput296_change = function() {localStorage.setItem("rules5",$App.rule
 $scope.SVGicon276_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton462_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea723_change = function() {localStorage.setItem("rules5a",$App.rules5a);};
+$scope.TextInput343_change = function() {localStorage.setItem("sl17",$App.sl17);};
 });
 NeoApp.controller("rules6_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 24;
@@ -4645,6 +4686,7 @@ $scope.TextInput297_change = function() {localStorage.setItem("rules6",$App.rule
 $scope.SVGicon277_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton463_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea724_change = function() {localStorage.setItem("rules6a",$App.rules6a);};
+$scope.TextInput344_change = function() {localStorage.setItem("sl18",$App.sl18);};
 });
 NeoApp.controller("rules7_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 25;
@@ -4653,6 +4695,7 @@ $scope.TextInput298_change = function() {localStorage.setItem("rules7",$App.rule
 $scope.SVGicon278_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton464_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea725_change = function() {localStorage.setItem("rules7a",$App.rules7a);};
+$scope.TextInput345_change = function() {localStorage.setItem("sl19",$App.sl19);};
 });
 NeoApp.controller("rules8_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 26;
@@ -4661,6 +4704,7 @@ $scope.TextInput299_change = function() {localStorage.setItem("rules8",$App.rule
 $scope.SVGicon279_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton465_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea726_change = function() {localStorage.setItem("rules8a",$App.rules8a);};
+$scope.TextInput346_change = function() {localStorage.setItem("sl20",$App.sl20);};
 });
 NeoApp.controller("rules9_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 27;
@@ -4669,6 +4713,7 @@ $scope.TextInput300_change = function() {localStorage.setItem("rules9",$App.rule
 $scope.SVGicon288_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton466_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea727_change = function() {localStorage.setItem("rules9a",$App.rules9a);};
+$scope.TextInput347_change = function() {localStorage.setItem("sl21",$App.sl21);};
 });
 NeoApp.controller("rules10_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 28;
@@ -4677,6 +4722,7 @@ $scope.TextInput301_change = function() {localStorage.setItem("rules10",$App.rul
 $scope.SVGicon289_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton467_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea728_change = function() {localStorage.setItem("rules10a",$App.rules10a);};
+$scope.TextInput348_change = function() {localStorage.setItem("sl22",$App.sl22);};
 });
 NeoApp.controller("rules11_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 29;
@@ -4685,6 +4731,7 @@ $scope.TextInput302_change = function() {localStorage.setItem("rules11",$App.rul
 $scope.SVGicon290_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton556_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea729_change = function() {localStorage.setItem("rules11a",$App.rules11a);};
+$scope.TextInput349_change = function() {localStorage.setItem("sl23",$App.sl23);};
 });
 NeoApp.controller("rules12_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 30;
@@ -4693,6 +4740,7 @@ $scope.TextInput303_change = function() {localStorage.setItem("rules12",$App.rul
 $scope.SVGicon291_click = function() {$scope.GotoPage( "landinghome" );};
 $scope.PushButton557_click = function() {$scope.GotoPage( "PreparationKeys" );};
 $scope.TextArea730_change = function() {localStorage.setItem("rules12a",$App.rules12a);};
+$scope.TextInput350_change = function() {localStorage.setItem("sl24",$App.sl24);};
 });
 NeoApp.controller("Speedp1_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 31;
