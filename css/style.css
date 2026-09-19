@@ -12,17 +12,10 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Headline564:hover {color:green}
 #Headline671 {position:absolute;left:16px;top:52px;width:212px;height:94px;margin:0;color:yellow;font-size:18pt;font-weight:600}
 #Headline671:hover {color:white}
-#Headline922 {position:absolute;left:197px;top:136px;width:161px;height:46px;margin:0;color:WHITE;font-size:14pt;text-align:center}
-#Headline922:hover {color:ORANGE;text-shadow:4px 4px 6px grey}
 #SVGicon120 {position:absolute;left:313px;top:83px;width:44px;height:36px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
 #SVGicon120:hover {fill:lime}
 #SVGicon179 {position:absolute;left:257px;top:75px;width:45px;height:47px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
 #SVGicon179:hover {fill:lime}
-#Headline924 {position:absolute;left:301px;top:200px;width:15px;height:17px;margin:0;color:White;font-size:10pt;font-weight:600}
-#SVGicon274 {position:absolute;left:262px;top:175px;width:71px;height:64px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
-#SVGicon274:hover {fill:#008000}
-#Image4 {position:absolute;left:190px;top:170px;width:47px;height:76px;margin:0;}
-#Image4:hover {color:lime;border-color:lime;border-style:dotted;opacity:0.5}
 #Headline852 {position:absolute;left:13px;top:140px;width:166px;height:30px;margin:0;color:white;font-size:20pt;font-weight:600}
 #TextArea721 {position:absolute;left:392px;top:49px;width:346px;height:226px;margin:0;}
 #TextArea722 {position:absolute;left:10px;top:285px;width:346px;height:478px;margin:0;color:white;font-size:10pt;background-color:#383838}
@@ -42,9 +35,6 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Headline1118:hover {color:lime}
 #SVGicon273 {position:absolute;left:299px;top:32px;width:56px;height:36px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
 #SVGicon273:hover {fill:lime}
-#Headline923 {position:absolute;left:329px;top:130px;width:31px;height:39px;margin:0;color:#A8A8A8;font-weight:800}
-#Headline923:hover {color:#00FF00}
-#Headline923:focus {color:lime}
 #TextArea740 {position:absolute;left:393px;top:1145px;width:345px;height:38px;margin:0;}
 #TextArea741 {position:absolute;left:392px;top:1187px;width:346px;height:431px;margin:0;font-size:10pt}
 #Headline146 {position:absolute;left:4px;top:1809px;width:353px;height:32px;margin:0;color:white;font-size:14pt;font-weight:800;text-align:center}
@@ -74,6 +64,7 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #SVGicon301:hover {fill:#FF0000}
 #SVGicon302 {position:absolute;left:9px;top:262px;width:17px;height:20px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
 #SVGicon302:hover {fill:#FF0000}
+#SVGicon274 {position:absolute;left:208px;top:171px;width:56px;height:46px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
 #landinghome {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #SVGicon285 {position:absolute;left:10px;top:318px;width:13px;height:17px;margin:0;fill:#00FFFF;stroke:black;stroke-width:1px}
 #Rectangle6 {position:absolute;left:0px;top:667px;width:375px;height:676px;margin:0;fill:#383838}
@@ -3579,8 +3570,8 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Ellipsechest4 {position:absolute;left:96px;top:166px;width:156px;height:265px;margin:0;}
 #Headline137 {position:absolute;left:22px;top:24px;width:226px;height:35px;margin:0;color:#00FFFF;font-size:20pt}
 #Ellipsechest1 {position:absolute;left:205px;top:240px;width:36px;height:33px;margin:0;fill:white;opacity:0.42;stroke-width:1px}
-#Ellipsechest2 {position:absolute;left:106px;top:240px;width:36px;height:33px;margin:0;fill:white;opacity:0.42;stroke-width:1px}
 #Ellipsekneck2 {position:absolute;left:155px;top:204px;width:36px;height:17px;margin:0;fill:white;opacity:0.42;stroke-width:1px}
+#Ellipsekneck2:hover {fill:#F08080}
 #Ellipsechest {position:absolute;left:138px;top:228px;width:72px;height:17px;margin:0;fill:white;opacity:0.42;stroke-width:1px}
 #Ellipsechest3 {position:absolute;left:141px;top:262px;width:64px;height:17px;margin:0;fill:white;opacity:0.42;stroke-width:1px}
 #Ellipsechest5 {position:absolute;left:134px;top:315px;width:32px;height:17px;margin:0;fill:white;opacity:0.42;stroke-width:1px}
@@ -3614,7 +3605,7 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #TextArea350 {position:absolute;left:13px;top:62px;width:344px;height:40px;margin:0;color:white;font-family:Times New Roman,Times,serif;background-color:#383838}
 #Headline138 {position:absolute;left:10px;top:146px;width:68px;height:18px;margin:0;color:Yellow;font-size:10pt;text-align:left}
 #TextArea719 {position:absolute;left:12px;top:106px;width:155px;height:35px;margin:0;color:white;font-family:Times New Roman,Times,serif;font-size:16pt;font-weight:400;text-align:center;background-color:#383838}
-#TextArea720 {position:absolute;left:206px;top:108px;width:146px;height:35px;margin:0;color:white;font-family:Times New Roman,Times,serif;font-size:16pt;font-weight:400;text-align:center;background-color:#383838}
+#TextArea720 {position:absolute;left:210px;top:107px;width:146px;height:35px;margin:0;color:white;font-family:Times New Roman,Times,serif;font-size:16pt;font-weight:400;text-align:center;background-color:#383838}
 #Ellipse9 {position:absolute;left:81px;top:146px;width:12px;height:12px;margin:0;fill:white;stroke-width:1px}
 #Ellipse10 {position:absolute;left:98px;top:146px;width:12px;height:12px;margin:0;fill:lime;stroke-width:1px}
 #Ellipse11 {position:absolute;left:116px;top:146px;width:12px;height:12px;margin:0;fill:red;stroke-width:1px}
@@ -3643,6 +3634,7 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Ellipse33 {position:absolute;left:242px;top:582px;width:12px;height:12px;margin:0;fill:white;stroke-width:1px}
 #Ellipse34 {position:absolute;left:277px;top:582px;width:12px;height:12px;margin:0;fill:red;stroke-width:1px}
 #Ellipse35 {position:absolute;left:259px;top:582px;width:12px;height:12px;margin:0;fill:lime;stroke-width:1px}
+#Ellipsechest2 {position:absolute;left:106px;top:240px;width:36px;height:33px;margin:0;fill:white;opacity:0.42;stroke-width:1px}
 #Speed05 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Headline330 {position:absolute;left:186px;top:249px;width:170px;height:22px;margin:0;color:white;font-size:12pt;text-align:center}
 #Headline330:hover {color:lime;font-size:8pt}
