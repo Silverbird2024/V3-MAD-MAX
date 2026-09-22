@@ -5986,13 +5986,13 @@ $scope.Headline1460_click = function() {$scope.GotoPage( "where2" );};
 $scope.Headline1461_click = function() {$scope.GotoPage( "where2" );};
 $scope.Headline1303_click = function() {$scope.GotoPage( "where3" );};
 $scope.Headline1306_click = function() {$scope.GotoPage( "where3" );};
-$scope.Headline1307_click = function() {$scope.GotoPage( "where3" );};
+$scope.Headline1319_click = function() {$scope.GotoPage( "where2" );};
 $scope.Headline1309_click = function() {$scope.GotoPage( "where4" );};
 $scope.Headline1312_click = function() {$scope.GotoPage( "where4" );};
 $scope.Headline1313_click = function() {$scope.GotoPage( "where4" );};
 $scope.Headline1315_click = function() {$scope.GotoPage( "where1" );};
 $scope.Headline1318_click = function() {$scope.GotoPage( "where1" );};
-$scope.Headline1319_click = function() {$scope.GotoPage( "where1" );};
+$scope.Headline1307_click = function() {$scope.GotoPage( "where2" );};
 });
 NeoApp.controller("PreparationKeys1_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 6;
