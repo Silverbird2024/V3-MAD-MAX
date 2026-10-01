@@ -6558,7 +6558,7 @@ NeoApp.controller("custom3_Ctrl", function($scope,$rootScope,$route,$timeout,$fi
 $App.NAB.PageNumber = 11;
 $App.NAB.PageID = "custom3";
 $scope.TextInput95_change = function() {localStorage.setItem("custom3",$App.custom3);};
-$scope.TextArea88_change = function() {$App.custom3a = localStorage.getItem("custom3a");};
+$scope.TextArea88_change = function() {localStorage.setItem("custom3a",$App.custom3a);};
 $scope.TextInput96_change = function() {localStorage.setItem("custom3b",$App.custom3b);};
 $scope.SVGicon32_click = function() {$scope.GotoPage( "landinghomesandbox" );};
 $scope.TextInput97_change = function() {localStorage.setItem("custom3c",$App.custom3c);};
