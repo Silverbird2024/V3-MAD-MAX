@@ -5041,6 +5041,7 @@ $scope.TextArea157_change = function() {localStorage.setItem("sl24a",$App.sl24a)
 $scope.TextArea158_change = function() {localStorage.setItem("sl25",$App.sl25);};
 $scope.TextArea159_change = function() {localStorage.setItem("sl25a",$App.sl25a);};
 $scope.SVGicon34_click = function() {$("#"+"TextInput100").focus();};
+$scope.PushButton17_click = function() {neoTalkSpeak($App.sl01+"."+$App.sl02+"."+$App.sl03+"."+$App.sl04+"."+$App.sl05+"."+$App.sl06+"."+$App.sl07+"."+$App.sl08+"."+$App.sl09+"."+$App.sl10+"."+$App.sl11+"."+$App.sl12+"."+$App.sl13+"."+$App.sl14+"."+$App.sl15+"."+$App.sl16+"."+$App.sl17+"."+$App.sl18+"."+$App.sl19+"."+$App.sl20+"."+$App.sl21+"."+$App.sl22+"."+$App.sl23+"."+$App.sl24+"."+$App.sl25+".", "", 1, 1);};
 });
 NeoApp.controller("custom3_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 11;
@@ -5103,6 +5104,7 @@ $scope.TextArea605_change = function() {localStorage.setItem("x324a",$App.x324a)
 $scope.TextArea606_change = function() {localStorage.setItem("x325",$App.x325);};
 $scope.TextArea607_change = function() {localStorage.setItem("x325a",$App.x325a);};
 $scope.SVGicon42_click = function() {$("#"+"TextInput100").focus();};
+$scope.PushButton18_click = function() {neoTalkSpeak($App.x301+"."+$App.x302+"."+$App.x303+"."+$App.x304+"."+$App.x305+"."+$App.x306+"."+$App.x307+"."+$App.x308+"."+$App.x309+"."+$App.x310+"."+$App.x311+"."+$App.x312+"."+$App.x313+"."+$App.x314+"."+$App.x315+"."+$App.x316+"."+$App.x317+"."+$App.x318+"."+$App.x319+"."+$App.x320+"."+$App.x321+"."+$App.x322+"."+$App.x323+"."+$App.x324+"."+$App.x325+".", "", 1, 1);};
 });
 NeoApp.controller("custom2_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 12;
@@ -5189,6 +5191,7 @@ $scope.TextArea596_change = function() {localStorage.setItem("sl01a",$App.sl01a)
 $scope.TextArea597_change = function() {localStorage.setItem("sl01",$App.sl01);};
 $scope.TextArea598_change = function() {localStorage.setItem("sl01a",$App.sl01a);};
 $scope.TextArea599_change = function() {localStorage.setItem("x202a",$App.x202a);};
+$scope.PushButton19_click = function() {neoTalkSpeak($App.x201+"."+$App.x202+"."+$App.x203+"."+$App.x204+"."+$App.x205+"."+$App.x206+"."+$App.x207+"."+$App.x208+"."+$App.x209+"."+$App.x210+"."+$App.x211+"."+$App.x212+"."+$App.x213+"."+$App.x214+"."+$App.x215+"."+$App.x216+"."+$App.x217+"."+$App.x218+"."+$App.x219+"."+$App.x220+"."+$App.x221+"."+$App.x222+"."+$App.x223+"."+$App.x224+"."+$App.x225+".", "", 1, 1);};
 });
 NeoApp.controller("custom4_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 13;
@@ -5279,6 +5282,7 @@ $scope.TextArea267_change = function() {localStorage.setItem("sl01a",$App.sl01a)
 $scope.TextArea268_change = function() {localStorage.setItem("sl01",$App.sl01);};
 $scope.TextArea269_change = function() {localStorage.setItem("sl01a",$App.sl01a);};
 $scope.Headline260_click = function() {$scope.GotoPage( "custom4" );};
+$scope.PushButton20_click = function() {neoTalkSpeak($App.x401+"."+$App.x402+"."+$App.x403+"."+$App.x404+"."+$App.x405+"."+$App.x406+"."+$App.x407+"."+$App.x408+"."+$App.x409+"."+$App.x410+"."+$App.x411+"."+$App.x412+"."+$App.x413+"."+$App.x414+"."+$App.x415+"."+$App.x416+"."+$App.x417+"."+$App.x418+"."+$App.x419+"."+$App.x420+"."+$App.x421+"."+$App.x422+"."+$App.x423+"."+$App.x424+"."+$App.x425+".", "", 1, 1);};
 });
 NeoApp.controller("custom5_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 14;
@@ -5371,6 +5375,7 @@ $scope.Headline274_click = function() {$scope.GotoPage( "custom4" );};
 $scope.Headline275_click = function() {$scope.GotoPage( "custom5" );};
 $scope.Headline278_click = function() {$scope.GotoPage( "custom6" );};
 $scope.TextArea276_change = function() {localStorage.setItem("x502a",$App.x502a);};
+$scope.PushButton21_click = function() {neoTalkSpeak($App.x501+"."+$App.x502+"."+$App.x503+"."+$App.x504+"."+$App.x505+"."+$App.x506+"."+$App.x507+"."+$App.x508+"."+$App.x509+"."+$App.x510+"."+$App.x511+"."+$App.x512+"."+$App.x513+"."+$App.x514+"."+$App.x515+"."+$App.x516+"."+$App.x517+"."+$App.x518+"."+$App.x519+"."+$App.x520+"."+$App.x521+"."+$App.x522+"."+$App.x523+"."+$App.x524+"."+$App.x525+".", "", 1, 1);};
 });
 NeoApp.controller("custom6_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 15;
@@ -5457,6 +5462,7 @@ $scope.TextArea535_change = function() {localStorage.setItem("sl01a",$App.sl01a)
 $scope.TextArea536_change = function() {localStorage.setItem("sl01",$App.sl01);};
 $scope.TextArea537_change = function() {localStorage.setItem("sl01a",$App.sl01a);};
 $scope.TextArea538_change = function() {localStorage.setItem("x602a",$App.x602a);};
+$scope.PushButton27_click = function() {neoTalkSpeak($App.x601+"."+$App.x602+"."+$App.x603+"."+$App.x604+"."+$App.x605+"."+$App.x606+"."+$App.x607+"."+$App.x608+"."+$App.x609+"."+$App.x610+"."+$App.x611+"."+$App.x612+"."+$App.x613+"."+$App.x614+"."+$App.x615+"."+$App.x616+"."+$App.x617+"."+$App.x618+"."+$App.x619+"."+$App.x620+"."+$App.x621+"."+$App.x622+"."+$App.x623+"."+$App.x624+"."+$App.x625+".", "", 1, 1);};
 });
 NeoApp.controller("where1_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
 $App.NAB.PageNumber = 16;
