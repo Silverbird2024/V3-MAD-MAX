@@ -2625,7 +2625,109 @@ $App.pr = $App.x300+" "+$App.Prayer+"  "+$App.Prayer2;
 neoTalkSpeak($App.pr, "?", 1, 1);};
 $scope.Headline157_click = function() {$App.consolodation1 = localStorage.getItem("consolodation1");
 $App.consolodation1a = localStorage.getItem("consolodation1a");
-$App.pr = $App.x300+" "+$App.Prayer+"  "+$App.Prayer2;
+if ($App.x302 == "?") {
+$App.x300 = $App.x301;
+neoTalkSpeak($App.x300, "?", 1, 1);
+} else {
+};
+if ($App.x303 == "?") {
+$App.x300 = $App.x301+$App.x302;
+neoTalkSpeak($App.x300, "?", 1, 1);
+} else {
+};
+if ($App.x304 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303;
+neoTalkSpeak($App.x300, "?", 1, 1);
+} else {
+};
+if ($App.x305 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304;
+neoTalkSpeak($App.x300, "?", 1, 1);
+} else {
+};
+if ($App.x306 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305;
+} else {
+};
+if ($App.x307 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306;
+} else {
+};
+if ($App.x308 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307;
+} else {
+};
+if ($App.x309 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308;
+} else {
+};
+if ($App.x310 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309;
+} else {
+};
+if ($App.x311 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310;
+} else {
+};
+if ($App.x312 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311;
+} else {
+};
+if ($App.x313 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312;
+} else {
+};
+if ($App.x313 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313;
+} else {
+};
+if ($App.x315 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313+$App.x314;
+} else {
+};
+if ($App.x316 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313+$App.x314+$App.x315;
+} else {
+};
+if ($App.x317 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313+$App.x314+$App.x315+$App.x316;
+} else {
+};
+if ($App.x318 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313+$App.x314+$App.x315+$App.x316+$App.x317;
+} else {
+};
+if ($App.x319 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313+$App.x314+$App.x315+$App.x316+$App.x317+$App.x318;
+} else {
+};
+if ($App.x320 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313+$App.x314+$App.x315+$App.x316+$App.x317+$App.x318+$App.x310;
+} else {
+};
+if ($App.x321 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313+$App.x314+$App.x315+$App.x316+$App.x317+$App.x319+$App.x320+$App.x321;
+} else {
+};
+if ($App.x322 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313+$App.x314+$App.x315+$App.x316+$App.x317+$App.x319+$App.x320+$App.x321+$App.x322;
+} else {
+};
+if ($App.x323 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313+$App.x314+$App.x315+$App.x316+$App.x317+$App.x319+$App.x320+$App.x321+$App.x322+$App.x323;
+} else {
+};
+if ($App.x324 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313+$App.x314+$App.x315+$App.x316+$App.x317+$App.x319+$App.x320+$App.x321+$App.x322+$App.x323+$App.x324;
+} else {
+};
+if ($App.x325 == "?") {
+$App.x300 = $App.x301+$App.x302+$App.x303+$App.x304+$App.x305+$App.x306+$App.x307+$App.x308+$App.x309+$App.x310+$App.x311+$App.x312+$App.x313+$App.x314+$App.x315+$App.x316+$App.x317+$App.x319+$App.x320+$App.x321+$App.x322+$App.x323+$App.x324+$App.x325;
+} else {
+};
+localStorage.setItem("x300",$App.x300);
+$App.x300 = localStorage.getItem("x300");
+$App.pr = $App.Prayer+"  "+$App.Prayer2+"   "+$App.x300;
 neoTalkSpeak($App.pr, "?", 1, 1);};
 });
 NeoApp.controller("Preloader_Ctrl", function($scope,$rootScope,$route,$timeout,$filter,$window,$animate) {
