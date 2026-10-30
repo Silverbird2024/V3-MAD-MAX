@@ -1,0 +1,3 @@
+[Database]
+ID=MainDb
+ConnectStr=[PubDir]data1.accdb

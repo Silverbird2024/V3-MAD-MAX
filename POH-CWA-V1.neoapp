@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Application>
+	<AppTitle>Untitled Application</AppTitle>
+	<AppShortName>MyApp</AppShortName>
+	<Author>Author name</Author>
+	<Version>1.0</Version>
+	<DesignDeviceName>GenericTablet</DesignDeviceName>
+	<VariablesScanned>False</VariablesScanned>
+	<PageWidth>768</PageWidth>
+	<PageHeight>1024</PageHeight>
+	<AutoSizeWidth>False</AutoSizeWidth>
+	<AutoSizeHeight>False</AutoSizeHeight>
+	<HideScrollbars>False</HideScrollbars>
+	<ResponsiveSize>False</ResponsiveSize>
+	<PublishPlatform>WebApp</PublishPlatform>
+	<EmptyBuildFolder>False</EmptyBuildFolder>
+	<AppIcon>C:\Users\User\Documents\VisualNeoWeb\Libraries\img\default-icon.png</AppIcon>
+	<LanguageCode>en</LanguageCode>
+	<DisplayMode>standalone</DisplayMode>
+	<ServiceWorker>Offline page</ServiceWorker>
+	<ThemeColor>#000000</ThemeColor>
+	<PwaScope>/</PwaScope>
+	<MobileOSTypes>[AndroidOS,iOS,WindowsPhoneOS]</MobileOSTypes>
+	<WindowState>normal</WindowState>
+	<TitleBar>True</TitleBar>
+	<Sizeable>True</Sizeable>
+	<MaximizeBtn>False</MaximizeBtn>
+	<MinimizeBtn>True</MinimizeBtn>
+	<SystemMenu>True</SystemMenu>
+	<ContextMenu>False</ContextMenu>
+	<AlwaysOnTop>False</AlwaysOnTop>
+	<ShowInTaskbar>True</ShowInTaskbar>
+	<SingleInstance>False</SingleInstance>
+	<ChromeKioskMode>False</ChromeKioskMode>
+	<Components>
+		<FunctionList name="Subroutines"/>
+		<LibraryList name="Libraries"/>
+		<PageList name="Main">
+			<Components>
+				<Page id="NewPage">
+					<Components>
+						<Headline id="Headline1">
+							<left>498px</left>
+							<top>15px</top>
+							<width>250px</width>
+							<height>74px</height>
+							<text>Pieces of History</text>
+						</Headline>
+						<Headline id="Headline2">
+							<left>574px</left>
+							<top>97px</top>
+							<width>190px</width>
+							<height>24px</height>
+							<style>font-size:16pt;font-weight:600</style>
+							<text>&lt;em&gt;Cold War Aircraft&lt;/em&gt;</text>
+						</Headline>
+					</Components>
+				</Page>
+			</Components>
+		</PageList>
+		<PageList name="Master">
+			<Components>
+				<Page id="MasterPage"/>
+			</Components>
+		</PageList>
+		<PageList name="Dialog">
+			<Components>
+				<Page id="NewDialog">
+					<Components>
+						<DialogContainer id="DialogContainer1">
+							<left>0px</left>
+							<top>0px</top>
+							<width>768px</width>
+							<height>1024px</height>
+							<close_button>False</close_button>
+							<kind>custom</kind>
+						</DialogContainer>
+					</Components>
+				</Page>
+			</Components>
+		</PageList>
+	</Components>
+</Application>
