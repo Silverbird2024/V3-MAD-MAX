@@ -75,8 +75,6 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Headline1302 {position:absolute;left:208px;top:57px;width:47px;height:18px;margin:0;color:white;font-size:11pt}
 #Headline1302:hover {color:lime}
 #Headline1302:focus {color:white}
-#Image4 {position:absolute;left:306px;top:101px;width:39px;height:53px;margin:0;}
-#Image4:hover {color:lime;border-color:lime;border-style:dotted;opacity:0.5}
 #SVGicon305 {position:absolute;left:3px;top:107px;width:58px;height:50px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
 #SVGicon305:hover {fill:lime}
 #SVGicon306 {position:absolute;left:107px;top:113px;width:32px;height:35px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
@@ -2902,7 +2900,6 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Headline319 {position:absolute;left:914px;top:31px;width:144px;height:610px;margin:0;color:white;font-size:10pt}
 #Man {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Rectangle10 {position:absolute;left:374px;top:0px;width:311px;height:614px;margin:0;fill:#383838;stroke:black;stroke-width:1px}
-#Ellipsechest4 {position:absolute;left:167px;top:166px;width:156px;height:265px;margin:0;}
 #Headline137 {position:absolute;left:22px;top:24px;width:226px;height:35px;margin:0;color:#00FFFF;font-size:20pt}
 #Ellipsechest1 {position:absolute;left:276px;top:240px;width:36px;height:33px;margin:0;fill:white;opacity:0.42;stroke-width:1px}
 #Ellipsekneck2 {position:absolute;left:226px;top:204px;width:36px;height:17px;margin:0;fill:white;opacity:0.42;stroke-width:1px}
@@ -3019,7 +3016,6 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #Headline144 {position:absolute;left:47px;top:676px;width:46px;height:19px;margin:0;color:white;font-size:9pt}
 #Headline145 {position:absolute;left:259px;top:675px;width:46px;height:19px;margin:0;color:white;font-size:9pt}
 #SVGicon40 {position:absolute;left:306px;top:16px;width:52px;height:36px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
-#Image8 {position:absolute;left:22px;top:85px;width:156px;height:265px;margin:0;}
 #Headline132 {position:absolute;left:121px;top:117px;width:91px;height:18px;margin:0;color:Yellow;font-size:9pt;text-align:left}
 #Headline133 {position:absolute;left:133px;top:169px;width:32px;height:18px;margin:0;color:black;font-size:8pt;text-align:center}
 #Headline142 {position:absolute;left:66px;top:184px;width:63px;height:18px;margin:0;color:black;font-size:8pt;text-align:center}
