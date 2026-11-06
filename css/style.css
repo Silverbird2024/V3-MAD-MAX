@@ -3044,7 +3044,6 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #PushButton150:hover {color:green;text-shadow:2px 2px 6px red}
 #PushButton187 {position:absolute;left:20px;top:216px;width:95px;height:32px;margin:0;color:blue;font-size:8pt;font-weight:600;opacity:0.46}
 #PushButton187:hover {color:WHITE;font-weight:600;background-color:#008000;opacity:0.8}
-#Image7 {position:absolute;left:20px;top:109px;width:93px;height:101px;margin:0;}
 #SVGicon37 {position:absolute;left:306px;top:16px;width:52px;height:36px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
 #Howtouse {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #PushButton186 {position:absolute;left:14px;top:14px;width:155px;height:72px;margin:0;color:blue;font-size:15pt;font-weight:800;text-shadow:2px 2px 6px #FFE4C4;background-color:#707070}
@@ -3059,14 +3058,11 @@ html{background:#eeeeee}body{background:rgba(255,255,255,0);position:absolute;to
 #SVGicon23:hover {fill:#FF0000}
 #SVGicon24 {position:absolute;left:212px;top:523px;width:64px;height:30px;margin:0;fill:#FF71A4;stroke:black;stroke-width:4px;transition:all 1s ease-out 0s;padding:2px}
 #SVGicon24:hover {fill:#FF0000}
-#Image1 {position:absolute;left:21px;top:73px;width:93px;height:101px;margin:0;}
 #Headline134 {position:absolute;left:22px;top:15px;width:159px;height:44px;margin:0;color:#00FFFF;font-size:20pt}
 #PushButton151 {position:absolute;left:121px;top:180px;width:95px;height:32px;margin:0;color:blue;font-size:8pt;font-weight:600;opacity:0.46}
 #PushButton151:hover {color:WHITE;font-weight:600;background-color:#008000;opacity:0.8}
-#Image5 {position:absolute;left:121px;top:73px;width:93px;height:101px;margin:0;}
 #PushButton161 {position:absolute;left:222px;top:180px;width:95px;height:32px;margin:0;color:blue;font-size:8pt;font-weight:600;opacity:0.46}
 #PushButton161:hover {color:WHITE;font-weight:600;background-color:#008000;opacity:0.8}
-#Image6 {position:absolute;left:222px;top:73px;width:93px;height:101px;margin:0;}
 #SVGicon39 {position:absolute;left:306px;top:16px;width:52px;height:36px;margin:0;stroke:black;stroke-width:1px;fill:#A8A8A8}
 #Prayer1 {position:relative;width:100%;height:100%;overflow:auto;;background-color:#383838}
 #Headline74 {position:absolute;left:24px;top:38px;width:346px;height:41px;margin:0;color:#F0E68C;background-color:#383838}
